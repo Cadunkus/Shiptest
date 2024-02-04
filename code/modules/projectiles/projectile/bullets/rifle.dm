@@ -2,7 +2,7 @@
 
 /obj/projectile/bullet/a556_45
 	name = "5.56x45mm bullet"
-	damage = 25
+	damage = 30
 	armour_penetration = 20
 
 // 7.62x54mmR (Illestren Rifle)
@@ -47,7 +47,7 @@
 
 /obj/projectile/bullet/a762_39
 	name = "7.62x39mm"
-	damage = 30
+	damage = 25
 	armour_penetration = 20
 
 //.308 WIN (M514 & GAL DMRs)
